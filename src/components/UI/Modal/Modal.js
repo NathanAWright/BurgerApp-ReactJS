@@ -9,7 +9,7 @@ class Modal extends Component {
     }//only if props.show was false and becomes true would the modal component update
     
     componentDidUpdate(){
-        console.log('[Modal] Component Did Update');
+        // console.log('[Modal] Component Did Update');
     }
 
     render () {
